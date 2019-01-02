@@ -1,0 +1,5 @@
+## Interface: 60000
+## Title: Old Rick Dick
+## Author: Thermalnuke
+## Version: 0.1
+Main.lua
