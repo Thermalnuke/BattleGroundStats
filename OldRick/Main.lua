@@ -8,7 +8,7 @@ SlashCmdList["TEST"] = function(msg)
 end 
 
 function Getinfo()
-     local UIConfig = CreateFrame("Frame",OLDDICK_MainFrame, UIParent, "BasicFrameTemplateWithInset")
+     local UIConfig = CreateFrame("Frame",OLDRICK_MainFrame, UIParent, "BasicFrameTemplateWithInset")
      UIConfig:SetSize(400,360);
      UIConfig:SetPoint("CENTER",UIParent,"CENTER");
 
